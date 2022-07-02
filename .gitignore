@@ -24,3 +24,4 @@ src/graphql/generated.ts
 *.sln
 *.sw?
 .env.local
+pnpm-lock.yaml
